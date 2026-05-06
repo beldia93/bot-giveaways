@@ -1,8 +1,8 @@
-CONFIGURER LE BOT
+CONFIGURE THE BOT :
 
-1. Ouvrez le fichier giveaway.js
-2. Modifier la ligne 4 & 125 avec le TOKEN de votre BOT discord | const TOKEN = 'ICI'; & client.login('ICI');
-3. Modifier la ligne 5 avec le CLIENT ID de votre BOT discord | const CLIENT_ID = 'ICI';
-4. Une fois fait, vous pouvez lancer le bot via le start.bat (configurez votre bot via le portal)
+1. Open the giveaway.js file
+2. Modify lines 4 & 125 with your Discord bot's TOKEN | const TOKEN = 'HERE'; & client.login('HERE');
+3. Modify line 5 with the CLIENT ID of your Discord bot | const CLIENT_ID = 'HERE';
+4. Once that's done, you can launch the bot via start.bat (configure your bot via the portal).
 
 ;)
